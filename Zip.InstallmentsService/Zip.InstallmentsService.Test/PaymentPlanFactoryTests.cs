@@ -12,10 +12,13 @@ namespace Zip.InstallmentsService.Test
             var paymentPlanFactory = new PaymentPlanFactory();
             
             // Act
-            var paymentPlan = paymentPlanFactory.CreatePaymentPlan(123.45M);
-
-            // Assert
-            paymentPlan.ShouldNotBeNull();
+            var paymentPlan = paymentPlanFactory.CreatePaymentPlan(100,5);
+            
+            //Assert
+            Assert.NotNull(paymentPlan);
+            Assert.Equal(20, paymentPlan.Installments[0].Amount);
+            Assert.Equal(5, paymentPlan.Installments.Length);
+            
         }
     }
 }
