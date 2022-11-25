@@ -25,6 +25,5 @@ dotnet test Zip.InstallmentsService.sln
 ```
 ## New Zip.InstallmentApi Api service appliaction has been to create api and call service
 ```
-cd Zip.InstallmentsService
-dotnet test Zip.InstallmentsService.sln
+Api will communicate with installment service to give desired result
 ```
