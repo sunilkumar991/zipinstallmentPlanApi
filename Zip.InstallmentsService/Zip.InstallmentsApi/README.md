@@ -13,6 +13,8 @@ Default swagger integration is there and has been modified for new changes
 2. Can register with any valid mail auth0
 3. ClientID: JQjtOIX787JyQVoEwtGqXyIzeFJ5tzfd
 
+![SImpleFlow](https://github.com/sunilkumar991/zipinstallmentPlanApi/blob/main/Zip.InstallmentsService/Zip.InstallmentsApi/SImpleFlow.png)
+
 
 ```
 
