@@ -1,0 +1,12 @@
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.deps.json
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.dll
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\bin\Debug\net6.0\Zip.InstallmentsService.pdb
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.csproj.AssemblyReference.cache
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.AssemblyInfoInputs.cache
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.AssemblyInfo.cs
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.csproj.CoreCompileInputs.cache
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.dll
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\refint\Zip.InstallmentsService.dll
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\Zip.InstallmentsService.pdb
+C:\Auth0New\dotnet6\software-engineer-interview-master\SoftwareEngineerInterview\CSharp\Zip.InstallmentsService\Zip.InstallmentsService\obj\Debug\net6.0\ref\Zip.InstallmentsService.dll
